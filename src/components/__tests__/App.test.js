@@ -17,3 +17,7 @@ it("displays a comment box", () => {
 it("displays a comment list", () => {
   expect(wrapped.find(CommentList).length).toEqual(1);
 });
+
+afterEach(() => {
+  wrapped.unmount();
+});
