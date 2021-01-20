@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+IN PROGRESS
 This is a playground to learn React Unit testing with Enzyme
 
 ## Available Scripts
